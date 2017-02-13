@@ -1,2 +1,3 @@
 # hello-world
-Say hallo to everybody in the world!
+Hallo people! 
+I'm Hung Arima from Vietnam! I like JavaScript and want to dive into IOS devolopment.
